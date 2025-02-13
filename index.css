@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    background: #1F2937;
+    color: white;
+    font-family: Inter;
+}
+
+.top-part{
+    padding: 115PX 126PX 35px 52px;
+    margin-bottom: 0px;
+}
+
+p{
+    color: #D5D4D8;
+    font-size: 20px;
+    margin-top: 10px;
+    
+}
+
+h1{
+    margin-bottom: 0px;
+    font-size: 40px;
+}
+
+#styletitle{
+    color: #4ADF86;
+    margin-top: 0px;
+}
+
+button{
+    padding: 10px 20px;
+    border-radius: 7px;
+    margin-top: 51px;
+    margin-bottom: 35px;
+    background: #10B981;
+    color: white;
+    border: none;
+    font-weight: lighter;
+    font-size: 16px;
+}
+
+.passwords{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    margin-bottom: 115px;
+}
+
+#first-pass{
+    background: #273549;
+    padding: 4px 16px;
+    width: 36%;
+    margin-right: 29px;
+}
+
+#second-pass{
+    background: #273549;
+    padding:  4px 16px;
+    width: 36%;
+}
+
+#text-el1{
+    color: #55F991;
+    margin: 7px;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    min-height: 20px;
+}
+
+#text-el2{
+    color: #55F991;
+    margin: 7px;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
